@@ -1,6 +1,6 @@
 package com.cubestacklabs.restendpointtimeprofiler;
 
-import com.cubestacklabs.restendpointtimeprofiler.log.RequestLoggerHandlerInterceptor;
+import com.cubestacklabs.restendpointtimeprofiler.logs.RequestLoggerHandlerInterceptor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
